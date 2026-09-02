@@ -1,0 +1,17 @@
+# >>> Checksum managed (do not edit) >>>
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+.auth
+*.eval.checksum.spec.ts
+*.rrweb.json.jsonl
+*.rrweb.jsonl
+.chk/
+test-instrumentation/
+.env
+checksum/test-data/*
+!checksum/test-data/bin/
+.DS_Store
+# <<< Checksum managed <<<
