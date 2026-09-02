@@ -13,7 +13,7 @@ const projectRoot = path.join(__dirname, "..");
 dotenv.config({ path: path.join(projectRoot, ".env") });
 dotenv.config({ path: path.join(__dirname, ".env") });
 
-const BASE_URL = process.env.BASE_URL ?? "https://crm-demo-agents.vercel.app/";
+const BASE_URL = process.env.BASE_URL ?? "https://crm-gitlab-testing.vercel.app/";
 
 export default getChecksumConfig({
   /**
