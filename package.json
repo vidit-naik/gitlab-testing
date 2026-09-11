@@ -21,7 +21,7 @@
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/node": "^26.4.1",
-    "checksumai": "^4.17.0",
+    "checksumai": "^5.0.0",
     "checksumai-eslint-config": "^0.1.5",
     "dotenv": "^17.4.2",
     "eslint": "^10.9.1",
